@@ -1,8 +1,8 @@
 class OscDump < Formula
   desc "OSCメッセージをダンプするプログラム"
   homepage "https://github.com/nkue-yst/osc_dump/"
-  url "https://github.com/nkue-yst/osc_dump/releases/download/v0.0.5/osc_dump-0.0.5_darwin_amd64.tar.gz"
-  sha256 "7c492d99b23e25f8f0d9d4714257d5b36e743228fa12a096c8ff65d46a503c4f"
+  url "https://github.com/nkue-yst/osc_dump/releases/download/v0.1.0/osc_dump-0.1.0_darwin_amd64.tar.gz"
+  sha256 "5a3f475ce16d57dc9709238b47647fc7474641ea2acd3904abd1d81258c971f5"
   license ""
 
     def install
